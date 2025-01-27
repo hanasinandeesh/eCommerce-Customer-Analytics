@@ -62,6 +62,5 @@ The project is organized into the following files and folders:
 
 ### Prerequisites:
 1. Python 3.x
-2. Install required dependencies by running:
-   ```bash
+2. Install required dependencies by running
    pip install -r requirements.txt
